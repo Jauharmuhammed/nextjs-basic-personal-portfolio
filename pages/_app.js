@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-import Navbar from "../Components/Navbar";
+import Navbar from "../components/Navbar";
 import { AnimatePresence } from "framer-motion";
 
 function MyApp({ Component, pageProps, router }) {
