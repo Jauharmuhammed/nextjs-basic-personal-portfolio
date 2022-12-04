@@ -21,7 +21,7 @@ export default function Contact() {
           transition={{ delay: 0.5, duration: 0.5 }}
           className="lg:text-9xl text-6xl lg:text-right text-center"
         >
-          Let's Talk
+          Let&apos;s Talk
         </m.h1>
       </div>
       <div className="font-latoBold  lg:text-6xl text-2xl ">
